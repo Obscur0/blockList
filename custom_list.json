@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "static.rutracker.cc"
+      ],
+      "domain_suffix": [
+        "rutracker.cc",
+        "rutracker.org",
+        "ntc.party",
+        "4pda.to",
+        "habr.com",
+        "rustorka.com",
+        ".ua",
+        "animego.org",
+        "jut.su",
+        "yummyani.me",
+        "canva.com"
+      ]
+    }
+  ]
+}
