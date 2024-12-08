@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "vk.com"
+      ],
+      "domain_suffix": [
+        "gosuslugi.ru",
+        "vk.com"
+      ]
+    }
+  ]
+}
