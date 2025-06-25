@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "static.rutracker.cc"
+        "static.rutracker.cc",
+        "usher.ttvnw.net"
       ],
       "domain_suffix": [
         "rutracker.cc",
