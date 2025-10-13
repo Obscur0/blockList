@@ -4,7 +4,8 @@
     {
       "domain": [
         "static.rutracker.cc",
-        "usher.ttvnw.net"
+        "usher.ttvnw.net",
+        ""gql.twitch.tv"
       ],
       "domain_suffix": [
         "rutracker.cc",
