@@ -6,7 +6,10 @@
         "static.rutracker.cc",
         "usher.ttvnw.net",
         "gql.twitch.tv",
-        "accounts.x.ai"
+        "accounts.x.ai",
+        "cdp.cloud.unity3d.com",
+        "status.vtubestudiocloud.com",
+        "uwu.vtubestudiocloud.com"
       ],
       "domain_suffix": [
         "rutracker.cc",
