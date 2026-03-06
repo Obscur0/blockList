@@ -10,7 +10,8 @@
         "cdp.cloud.unity3d.com",
         "status.vtubestudiocloud.com",
         "uwu.vtubestudiocloud.com",
-        "translate.google.com"
+        "translate.google.com",
+        "challenges.cloudflare.com"
       ],
       "domain_suffix": [
         "rutracker.cc",
